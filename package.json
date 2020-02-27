@@ -1,0 +1,22 @@
+{
+  "name": "gulp_test",
+  "version": "1.0.0",
+  "description": "A record of learning gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangkunxiao/Gulp.git"
+  },
+  "author": "kaka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangkunxiao/Gulp/issues"
+  },
+  "homepage": "https://github.com/yangkunxiao/Gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
